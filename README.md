@@ -1,5 +1,6 @@
 # 广东财经大学教务系统一键评教
 
+> 不久后将由 [gdufe-scripts](https://github.com/Kiteio/gdufe-scripts) 代替
 
 ## 用法
 （Java 或 Kotlin 配置可参照此版本）
